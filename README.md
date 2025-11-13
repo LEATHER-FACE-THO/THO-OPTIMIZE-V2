@@ -1,4 +1,4 @@
-# THO OPTIMIZER V2
+# THO OPTIMIZER V3
 
 <div align="center">
 
@@ -118,3 +118,4 @@ THO-Optimizer.exe
 - Asegúrate de tener todos los recursos (imágenes, iconos) en la carpeta `icons`
 - La compilación puede tardar unos minutos
 - El archivo ejecutable será independiente y no necesitará Python instalado
+
